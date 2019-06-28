@@ -10,7 +10,7 @@ const Spinner = (props) => {
 };
 
 Spinner.defaultProps = {
-  message: 'Loading...'
+  message: 'Loading... test..'
 };
 
 export default Spinner;
